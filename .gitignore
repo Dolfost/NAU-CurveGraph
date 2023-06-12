@@ -1,0 +1,10 @@
+# Result files
+**.exe
+
+# MacOS
+.DS_Store
+
+# neovim
+tags
+tags.lock
+*.swp
